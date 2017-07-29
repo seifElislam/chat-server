@@ -25,7 +25,7 @@ SECRET_KEY = '5%^95$wp1px-qu0^@u!tm4e22!fumz7fil10og*8=j=)xjlb()'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
